@@ -13,6 +13,6 @@ class App < Sinatra::Base
     "My hometown is Delmas"
   end
   get '/favorite-song' do
-    "My favorite-song is 'Hillsong - I surrender'"
+    "My favorite-song is Hillsong - I surrender"
   end
 end
