@@ -8,4 +8,8 @@ class App < Sinatra::Base
   get '/mane'do
     "My name is Clifford LOUIS"
   end
+
+  get '/hometown' do
+    ""
+  end
 end
