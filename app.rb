@@ -5,7 +5,7 @@ class App < Sinatra::Base
     "Hello, world!"
   end
 
-  get '/mane'do
+  get '/mane' do
     "My name is Clifford LOUIS"
   end
 
